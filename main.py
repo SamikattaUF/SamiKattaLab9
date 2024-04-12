@@ -1,4 +1,4 @@
-ef menu():
+def menu():
     print("Menu\n"
           "-------------\n"
           "1. Encode\n"
